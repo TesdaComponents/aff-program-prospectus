@@ -17,16 +17,6 @@ Offered Programs
  - [ ] Fish Capture (AFFFSC306)
 
 
-Competency Based Curriculum (CBC)
----------
-
-##### Common Competencies
- - [ ] XXXX
-
-##### Core Competencies
- - [ ] YYYY
-
-
 
 Installation and Usage
 =====================
