@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Tesda\\Program\\Aff": "src/"
+            "Tesda\\Program\\Aff\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TesdaTest\\Program\\Aff": "test/"
+            "TesdaTest\\Program\\Aff\\": "test/"
         }
     },
     "extra": {
