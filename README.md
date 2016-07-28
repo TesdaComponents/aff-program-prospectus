@@ -1,5 +1,8 @@
-Agriculture, Forestry and Fishery Program Prospectus
+Agriculture, Forestry and Fishery Sector
 ============
+
+TO DO
+
 
 Offered Programs
 ------------
@@ -22,6 +25,7 @@ Competency Based Curriculum (CBC)
 
 ##### Core Competencies
  - [ ] YYYY
+
 
 
 Installation and Usage
