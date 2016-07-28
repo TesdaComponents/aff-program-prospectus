@@ -1,4 +1,4 @@
-Agriculture, Forestry and Fishery Sector Program Prospectus
+Agriculture, Forestry and Fishery Program Prospectus
 ============
 
 Offered Programs
