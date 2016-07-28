@@ -1,9 +1,9 @@
-Agriculture, Forestry and Fishery Sector
+Agriculture, Forestry and Fishery Program
 ============
 
-TO DO
+[![Latest Stable Version](https://poser.pugx.org/tesda/aff-program-prospectus/v/stable.svg)](https://packagist.org/packages/tesda/aff-program-prospectus) [![Total Downloads](https://poser.pugx.org/tesda/aff-program-prospectus/downloads.svg)](https://packagist.org/packages/tesda/aff-program-prospectus) [![License](https://poser.pugx.org/tesda/aff-program-prospectus/license.svg)](https://packagist.org/packages/tesda/aff-program-prospectus)
 
-Offered Programs (as of August 12, 2015)
+Offered Programs
 ------------
 
 ##### National Competency Level I
