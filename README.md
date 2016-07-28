@@ -1,7 +1,8 @@
 Agriculture, Forestry and Fishery Program Prospectus
 ============
 
-## Offered Programs
+Offered Programs
+------------
 
 ##### National Competency Level I
  - [ ] Fish Capure (AFFFSC105)
@@ -13,14 +14,14 @@ Agriculture, Forestry and Fishery Program Prospectus
  - [ ] Fish Capture (AFFFSC306)
 
 
-## Common Competencies
+Competency Based Curriculum (CBC)
+---------
 
-TO DO
+##### Common Competencies
+ - [ ] XXXX
 
-
-## Core Competencies
-
-TO DO
+##### Core Competencies
+ - [ ] YYYY
 
 
 Installation and Usage
