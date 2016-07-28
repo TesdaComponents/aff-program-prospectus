@@ -3,8 +3,7 @@ Agriculture, Forestry and Fishery Sector
 
 TO DO
 
-
-Offered Programs
+Offered Programs (as of August 12, 2015)
 ------------
 
 ##### National Competency Level I
